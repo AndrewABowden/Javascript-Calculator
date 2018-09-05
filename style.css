@@ -1,0 +1,21 @@
+.number {
+    padding: 10px;
+    background-color: black;
+    color: whitesmoke;
+}
+.operator {
+    padding: 10px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.equals {
+    padding: 10px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+#calc {
+    background-color: grey;
+    padding: 20px;
+}
